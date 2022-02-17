@@ -18,7 +18,7 @@ See [github repo](https://github.com/chocolatey/choco)
 ***Take note, look at the choco-install-apps.ps1, it contains list of apps to be installed. Make your own app selection or use what I have. To make your own, edit the code below. More instructions below.***
 
 ```
-@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://github.com/divemarkus/choco-install-apps/raw/master/choco-install-apps.ps1'))"
+@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://github.com/divemarkus/choco-install-apps/blob/main/choco-install-apps.ps1'))"
 ```
 
 ***To make your own choco-install-apps.ps1:***
