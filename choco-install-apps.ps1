@@ -10,7 +10,6 @@ choco feature enable -n allowGlobalConfirmation
 
 choco install 7zip.install
 choco install audacity
-choco install autohotkey.portable
 choco install awscli
 choco install brave
 choco install ChocolateyGUI
@@ -18,7 +17,6 @@ choco install cmder
 choco install cpu-z
 choco install crystaldiskinfo
 choco install curl
-choco install dbeaver
 choco install ffmpeg
 choco install fiddler
 choco install Firefox
@@ -66,6 +64,7 @@ choco install youtube-dl
 #choco install aida64extreme
 #choco install anaconda3
 #choco install android-sdk
+#choco install autohotkey.portable
 #choco install avgantivirusfree
 #choco install baretail
 #choco install bginfo
@@ -75,6 +74,7 @@ choco install youtube-dl
 #choco install consolez
 #choco install couchpotato
 #choco install cygwin
+#choco install dbeaver
 #choco install docker
 #choco install etcher
 #choco install fakenet
